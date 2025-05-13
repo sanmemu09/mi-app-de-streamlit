@@ -37,8 +37,6 @@ pipeline = pickle.load(open(filename, 'rb'))
 
 """#**Stream lit**"""
 
-!pip install streamlit
-
 #Streamlit
 
 #Se crea interfaz gráfica con streamlit para captura de los datos
